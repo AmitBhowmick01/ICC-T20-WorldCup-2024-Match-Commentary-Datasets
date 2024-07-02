@@ -1,9 +1,10 @@
 # **ICC T20 Cricket World Cup 2024 Matches Commentary Datasets**
 
+![T20 WC logo](https://github.com/AmitBhowmick01/ICC-T20-WorldCup-2024-Match-Commentary-Datasets/assets/126709893/4f807f81-caca-4847-a136-a51d7bab7271)
 
 ## Overview
 
-This repository contains detailed match-wise commentary datasets for the ICC T20 Cricket World Cup 2024. Whether you’re a cricket enthusiast, data analyst, or researcher, these datasets provide valuable insights into each matches. 
+This repository contains detailed match-wise commentary datasets for the ICC T20 Cricket World Cup 2024. Whether you’re a cricket enthusiast, data analyst, or researcher, these datasets provide valuable insights into each match. 
 
 ## Usage
  
